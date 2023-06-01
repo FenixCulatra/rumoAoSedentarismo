@@ -1,0 +1,12 @@
+{
+  "name": "Rumo ao Sedentarismo",
+  "short_name": "Rumo ao Sedentarismo",
+  "id": "com.example.gamename",
+  "description": "Você está evoluindo, tudo está ficando mais fácil, e tu estás cada vez mais sedentário. Você chega no final de tudo, senta no sofá, e após um tempo morre. É assim que você quer que seja? Não! Então antes que isso aconteça, levante e volte a ficar ativo. Deixe os seus ancestrais orgulhosos!",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
